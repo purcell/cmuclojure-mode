@@ -1,6 +1,6 @@
 ### cmuclojure.el --- Clojure process in a buffer
 
-License: GPL
+License: GPL  
 Copyright (C) 2013  Jude Chao  
 Author: Jude Chao  
 Email: <kaihaosw@gmail.com>  

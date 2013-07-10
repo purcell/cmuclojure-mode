@@ -1,13 +1,22 @@
-;;; cmuclojure.el --- inferior mode for Clojure
+;;; cmuclojure.el --- Clojure process in a buffer
 
 ;; License: GPL
-;; Copyright (C) 2013  Jude Chao
+;; Copyright (C) 2013, Jude Chao, all rights reserved.
 ;; Author: Jude Chao
 ;; Email: <kaihaosw@gmail.com>
+;; URL: https://github.com/judevc
 ;; Version: 0.1
+;; Keywords: clojure
 
 ;; Based on cmuscheme.el and https://github.com/syohex/emacs-inf-clojure/blob/master/inf-clojure.el
 
+;;; Commentary:
+;; Run clojure in your buffer, and send your definition to your buffer immediately.
+;; Install: (require 'cmuclojure)
+;; Keybinding: C-c C-c or C-c C-e clojure-send-definition-split-window
+;;
+;;; License
+;;
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or

@@ -1,5 +1,6 @@
 ;;; cmuclojure.el --- inferior mode for Clojure
 
+;; License: GPL
 ;; Copyright (C) 2013  Jude Chao
 ;; Author: Jude Chao
 ;; Email: <kaihaosw@gmail.com>
